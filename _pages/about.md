@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Michael Jacob"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Michael Jacob
 
 I am a Mathematics and Computer Science student at the University of Pennsylvania. I am also currently a pursuing a Master's degree in Mathematics. I am interested in geometric deep learning and principled model design for computer vision, particuarly in 3D and 4D reconstruction.
 
